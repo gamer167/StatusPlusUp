@@ -124,6 +124,7 @@ sites:
     
 status-website:
   logoUrl: logoUrl: https://raw.githubusercontent.com/Status-Plus/StatusPlus/master/Standalone/SVG/Full%20(1).svg
+  baseUrl: /StatusPlusUp
   name: StatusPlusUp
   navbar:
     - title: StatusPlusUp
