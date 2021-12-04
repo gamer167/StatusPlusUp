@@ -123,7 +123,7 @@ sites:
     maxResponseTime: 1000
     
 status-website:
-  logoUrl: logoUrl: https://raw.githubusercontent.com/Status-Plus/StatusPlus/master/Standalone/SVG/Full%20(1).svg
+  logoUrl: https://raw.githubusercontent.com/Status-Plus/StatusPlus/master/Standalone/SVG/Full%20(1).svg
   baseUrl: /StatusPlusUp
   name: StatusPlusUp
   navbar:
