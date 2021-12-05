@@ -1,7 +1,7 @@
 url: https://thumbnails.roblox.com/v1/assets?assetIds=82738847&format=Png&isCircular=false&size=30x30
-status: down
-code: 429
-responseTime: 73
-lastUpdated: 2021-12-04T23:21:58.243Z
+status: up
+code: 200
+responseTime: 64
+lastUpdated: 2021-12-05T01:14:35.592Z
 startTime: Sat Dec 04 2021 20:09:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
