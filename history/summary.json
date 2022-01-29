@@ -273,18 +273,16 @@
     "slug": "economy-api-endpoint",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 131,
     "timeDay": 1313,
     "timeWeek": 403,
     "timeMonth": 164,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2022-01-28": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Friends API Endpoint",
@@ -409,11 +407,11 @@
     "icon": "https://favicons.githubusercontent.com/thumbnails.roblox.com",
     "slug": "thumbnails-api-endpoint",
     "status": "up",
-    "uptime": "96.99%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.00%",
     "time": 95,
     "timeDay": 73,
     "timeWeek": 102,
