@@ -1,7 +1,7 @@
 url: https://badges.roblox.com/v1/badges/2124548403
-status: up
-code: 200
-responseTime: 58
-lastUpdated: 2022-02-03T23:17:06.346Z
+status: degraded
+code: 503
+responseTime: 1383
+lastUpdated: 2022-02-04T17:49:00.143Z
 startTime: Sat Dec 04 2021 20:09:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
