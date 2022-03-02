@@ -24,19 +24,19 @@
     "url": "https://devforum.roblox.com",
     "icon": "https://favicons.githubusercontent.com/devforum.roblox.com",
     "slug": "roblox-devforum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.97%",
     "time": 207,
-    "timeDay": 208,
-    "timeWeek": 188,
-    "timeMonth": 223,
+    "timeDay": 200,
+    "timeWeek": 189,
+    "timeMonth": 222,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-03-02": 0
+      "2022-03-02": 42
     }
   },
   {
