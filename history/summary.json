@@ -270,13 +270,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.29%",
+    "uptimeYear": "1.28%",
     "time": 988,
     "timeDay": 1096,
     "timeWeek": 1018,
     "timeMonth": 1000,
     "timeYear": 1037,
     "dailyMinutesDown": {
+      "2023-04-09": 32,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -682,7 +683,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "develop-api-endpoint",
     "status": "down",
-    "uptime": "23.23%",
+    "uptime": "23.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -693,6 +694,7 @@
     "timeMonth": 870,
     "timeYear": 531,
     "dailyMinutesDown": {
+      "2023-04-09": 33,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -1056,8 +1058,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   },
   {
@@ -1206,6 +1207,7 @@
     "timeMonth": 984,
     "timeYear": 235,
     "dailyMinutesDown": {
+      "2023-04-09": 33,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
