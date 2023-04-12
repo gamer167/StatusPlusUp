@@ -246,11 +246,11 @@
     "url": "https://billing.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.roblox.com.ico",
     "slug": "billing-api-endpoint",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 136,
     "timeDay": 715,
@@ -258,6 +258,7 @@
     "timeMonth": 637,
     "timeYear": 156,
     "dailyMinutesDown": {
+      "2023-04-12": 4,
       "2023-01-23": 49,
       "2023-01-04": 16
     }
@@ -272,14 +273,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.26%",
+    "uptimeYear": "0.25%",
     "time": 989,
-    "timeDay": 1004,
+    "timeDay": 1002,
     "timeWeek": 1019,
     "timeMonth": 1003,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2023-04-12": 1091,
+      "2023-04-12": 1116,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -669,18 +670,20 @@
     "url": "https://gamepersistence.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamepersistence.roblox.com.ico",
     "slug": "datastore-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 165,
     "timeDay": 698,
     "timeWeek": 689,
     "timeMonth": 643,
     "timeYear": 166,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-12": 4
+    }
   },
   {
     "name": "Develop API Endpoint",
@@ -699,7 +702,7 @@
     "timeMonth": 968,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2023-04-12": 1092,
+      "2023-04-12": 1116,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -1071,18 +1074,19 @@
     "url": "https://economy.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/economy.roblox.com.ico",
     "slug": "economy-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
-    "time": 238,
+    "time": 239,
     "timeDay": 675,
     "timeWeek": 653,
     "timeMonth": 643,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2023-04-12": 3,
       "2023-02-04": 25,
       "2023-01-21": 17,
       "2022-12-03": 19,
@@ -1116,10 +1120,10 @@
     "url": "http://gamejoin.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 270,
@@ -1128,6 +1132,7 @@
     "timeMonth": 585,
     "timeYear": 284,
     "dailyMinutesDown": {
+      "2023-04-12": 2,
       "2023-02-04": 32,
       "2023-01-28": 104,
       "2022-08-10": 16
@@ -1179,10 +1184,10 @@
     "url": "https://inventory.roblox.com/v1/users/82738847/assets/collectibles?limit=10&sortOrder=Asc",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.roblox.com.ico",
     "slug": "inventory-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 252,
@@ -1191,6 +1196,7 @@
     "timeMonth": 682,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2023-04-12": 2,
       "2022-06-15": 19,
       "2022-06-08": 20
     }
@@ -1200,7 +1206,7 @@
     "url": "http://textfilter.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/textfilter.roblox.com.ico",
     "slug": "text-filter-api-endpoint",
-    "status": "degraded",
+    "status": "down",
     "uptime": "30.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -1212,7 +1218,7 @@
     "timeMonth": 1002,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-04-12": 1092,
+      "2023-04-12": 1116,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
       "2023-04-09": 1440,
@@ -1616,10 +1622,10 @@
     "url": "https://users.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "users-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
@@ -1627,6 +1633,8 @@
     "timeWeek": 654,
     "timeMonth": 628,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-12": 1
+    }
   }
 ]
