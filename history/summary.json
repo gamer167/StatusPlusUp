@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.roblox.com.ico",
     "slug": "roblox-site-under-aritifical-testing",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 353,
     "timeDay": 265,
@@ -16,7 +16,7 @@
     "timeMonth": 439,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-07-25": 0,
+      "2023-07-25": 13,
       "2023-05-30": 19,
       "2023-03-04": 21,
       "2022-11-09": 16,
@@ -32,13 +32,13 @@
     "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.41%",
+    "uptimeMonth": "97.44%",
     "uptimeYear": "98.78%",
     "time": 703,
     "timeDay": 187,
     "timeWeek": 249,
     "timeMonth": 866,
-    "timeYear": 717,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2023-07-14": 27,
       "2023-06-26": 1069,
@@ -149,7 +149,7 @@
     "timeDay": 690,
     "timeWeek": 615,
     "timeMonth": 635,
-    "timeYear": 322,
+    "timeYear": 323,
     "dailyMinutesDown": {
       "2023-07-20": 198,
       "2023-06-21": 15
@@ -170,7 +170,7 @@
     "timeDay": 678,
     "timeWeek": 638,
     "timeMonth": 733,
-    "timeYear": 563,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2023-06-20": 16,
       "2023-06-13": 20,
@@ -236,7 +236,7 @@
     "timeDay": 659,
     "timeWeek": 619,
     "timeMonth": 641,
-    "timeYear": 316,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2023-01-04": 16,
       "2022-12-01": 24
@@ -257,7 +257,7 @@
     "timeDay": 656,
     "timeWeek": 612,
     "timeMonth": 630,
-    "timeYear": 305,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-01-23": 49,
       "2023-01-04": 16
@@ -280,7 +280,7 @@
     "timeMonth": 984,
     "timeYear": 974,
     "dailyMinutesDown": {
-      "2023-07-25": 1403,
+      "2023-07-25": 1416,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -700,7 +700,7 @@
     "timeMonth": 961,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2023-07-25": 1404,
+      "2023-07-25": 1417,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
@@ -1214,7 +1214,7 @@
     "timeMonth": 1018,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2023-07-25": 1404,
+      "2023-07-25": 1417,
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
