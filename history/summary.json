@@ -281,7 +281,7 @@
     "timeMonth": 1007,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-08-21": 992,
+      "2023-08-21": 1178,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -653,18 +653,20 @@
     "url": "https://catalog.roblox.com/v1/bundles/details?bundleIds=192",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.roblox.com.ico",
     "slug": "catalog-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 665,
+    "time": 310,
+    "timeDay": 679,
     "timeWeek": 689,
-    "timeMonth": 669,
-    "timeYear": 376,
-    "dailyMinutesDown": {}
+    "timeMonth": 670,
+    "timeYear": 377,
+    "dailyMinutesDown": {
+      "2023-08-21": 1
+    }
   },
   {
     "name": "Datastore API Endpoint",
@@ -701,7 +703,7 @@
     "timeMonth": 1014,
     "timeYear": 759,
     "dailyMinutesDown": {
-      "2023-08-21": 993,
+      "2023-08-21": 1178,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -1214,7 +1216,7 @@
     "timeMonth": 1042,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2023-08-21": 993,
+      "2023-08-21": 1178,
       "2023-08-20": 1440,
       "2023-08-19": 1440,
       "2023-08-18": 1440,
@@ -1593,8 +1595,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 622,
-    "timeDay": 3172,
-    "timeWeek": 1244,
+    "timeDay": 634,
+    "timeWeek": 1257,
     "timeMonth": 1103,
     "timeYear": 738,
     "dailyMinutesDown": {
