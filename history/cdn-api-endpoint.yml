@@ -1,7 +1,7 @@
 url: http://cdnproviders.roblox.com/
-status: down
+status: degraded
 code: 503
-responseTime: 826
-lastUpdated: 2023-08-28T17:54:39.072Z
+responseTime: 1038
+lastUpdated: 2023-08-28T18:32:46.417Z
 startTime: 2021-12-04T20:09:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
