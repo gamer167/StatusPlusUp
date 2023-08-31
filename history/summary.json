@@ -275,12 +275,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1014,
-    "timeDay": 1096,
+    "timeDay": 1100,
     "timeWeek": 1011,
     "timeMonth": 1007,
     "timeYear": 985,
     "dailyMinutesDown": {
-      "2023-08-31": 1333,
+      "2023-08-31": 1348,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -652,19 +652,19 @@
     "url": "https://catalog.roblox.com/v1/bundles/details?bundleIds=192",
     "icon": "https://icons.duckduckgo.com/ip3/catalog.roblox.com.ico",
     "slug": "catalog-api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 653,
-    "timeWeek": 689,
-    "timeMonth": 675,
-    "timeYear": 393,
+    "time": 325,
+    "timeDay": 672,
+    "timeWeek": 691,
+    "timeMonth": 676,
+    "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-08-31": 1
+      "2023-08-31": 15
     }
   },
   {
@@ -702,7 +702,7 @@
     "timeMonth": 1372,
     "timeYear": 811,
     "dailyMinutesDown": {
-      "2023-08-31": 1333,
+      "2023-08-31": 1348,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -1215,7 +1215,7 @@
     "timeMonth": 1032,
     "timeYear": 556,
     "dailyMinutesDown": {
-      "2023-08-31": 1334,
+      "2023-08-31": 1348,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
