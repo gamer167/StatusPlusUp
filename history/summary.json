@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 375,
-    "timeDay": 421,
-    "timeWeek": 393,
-    "timeMonth": 453,
-    "timeYear": 415,
+    "time": 376,
+    "timeDay": 386,
+    "timeWeek": 392,
+    "timeMonth": 450,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2023-07-26": 87,
       "2023-05-30": 19,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
     "time": 672,
-    "timeDay": 378,
+    "timeDay": 360,
     "timeWeek": 249,
     "timeMonth": 316,
-    "timeYear": 721,
+    "timeYear": 723,
     "dailyMinutesDown": {
       "2023-07-14": 27,
       "2023-06-26": 1069,
@@ -75,7 +75,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 398,
-    "timeDay": 340,
+    "timeDay": 503,
     "timeWeek": 377,
     "timeMonth": 348,
     "timeYear": 451,
@@ -99,10 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 714,
+    "timeDay": 740,
     "timeWeek": 700,
     "timeMonth": 674,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {
       "2023-01-04": 17
     }
@@ -119,7 +119,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 351,
-    "timeDay": 725,
+    "timeDay": 763,
     "timeWeek": 713,
     "timeMonth": 664,
     "timeYear": 419,
@@ -141,7 +141,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 327,
-    "timeDay": 672,
+    "timeDay": 652,
     "timeWeek": 705,
     "timeMonth": 664,
     "timeYear": 395,
@@ -161,11 +161,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.82%",
-    "time": 497,
-    "timeDay": 713,
+    "time": 566,
+    "timeDay": 684,
     "timeWeek": 826,
     "timeMonth": 882,
-    "timeYear": 621,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2023-08-22": 19,
       "2023-08-19": 20,
@@ -207,10 +207,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 349,
-    "timeDay": 722,
+    "timeDay": 746,
     "timeWeek": 702,
     "timeMonth": 660,
-    "timeYear": 394,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2023-01-23": 62
     }
@@ -227,10 +227,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
-    "timeDay": 683,
+    "timeDay": 673,
     "timeWeek": 701,
     "timeMonth": 661,
-    "timeYear": 389,
+    "timeYear": 390,
     "dailyMinutesDown": {
       "2023-01-04": 16,
       "2022-12-01": 24
@@ -248,7 +248,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 299,
-    "timeDay": 671,
+    "timeDay": 638,
     "timeWeek": 683,
     "timeMonth": 655,
     "timeYear": 379,
@@ -263,7 +263,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdnproviders.roblox.com.ico",
     "slug": "cdn-api-endpoint",
     "status": "degraded",
-    "uptime": "20.07%",
+    "uptime": "20.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -272,9 +272,10 @@
     "timeDay": 994,
     "timeWeek": 1020,
     "timeMonth": 1009,
-    "timeYear": 987,
+    "timeYear": 988,
     "dailyMinutesDown": {
-      "2023-09-12": 1397,
+      "2023-09-13": 29,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -637,8 +638,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -656,7 +656,7 @@
     "timeDay": 679,
     "timeWeek": 698,
     "timeMonth": 678,
-    "timeYear": 415,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2023-08-31": 15
     }
@@ -676,7 +676,7 @@
     "timeDay": 715,
     "timeWeek": 720,
     "timeMonth": 671,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   },
   {
@@ -694,9 +694,10 @@
     "timeDay": 637,
     "timeWeek": 717,
     "timeMonth": 1246,
-    "timeYear": 834,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-09-12": 1397,
+      "2023-09-13": 29,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -1059,8 +1060,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -1078,7 +1078,7 @@
     "timeDay": 634,
     "timeWeek": 684,
     "timeMonth": 634,
-    "timeYear": 425,
+    "timeYear": 426,
     "dailyMinutesDown": {
       "2023-04-23": 27,
       "2023-02-04": 25,
@@ -1144,7 +1144,7 @@
     "timeDay": 663,
     "timeWeek": 674,
     "timeMonth": 650,
-    "timeYear": 374,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-01-06": 42,
       "2022-10-17": 21
@@ -1165,7 +1165,7 @@
     "timeDay": 664,
     "timeWeek": 685,
     "timeMonth": 663,
-    "timeYear": 398,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2022-10-08": 18
     }
@@ -1185,7 +1185,7 @@
     "timeDay": 718,
     "timeWeek": 717,
     "timeMonth": 723,
-    "timeYear": 461,
+    "timeYear": 462,
     "dailyMinutesDown": {
       "2023-09-10": 20,
       "2023-07-25": 16,
@@ -1207,9 +1207,10 @@
     "timeDay": 1077,
     "timeWeek": 1097,
     "timeMonth": 1059,
-    "timeYear": 591,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2023-09-12": 1398,
+      "2023-09-13": 29,
+      "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
@@ -1572,8 +1573,7 @@
       "2022-09-17": 1440,
       "2022-09-16": 1440,
       "2022-09-15": 1440,
-      "2022-09-14": 1440,
-      "2022-09-13": 1440
+      "2022-09-14": 1440
     }
   },
   {
@@ -1591,7 +1591,7 @@
     "timeDay": 670,
     "timeWeek": 689,
     "timeMonth": 905,
-    "timeYear": 763,
+    "timeYear": 764,
     "dailyMinutesDown": {
       "2023-08-31": 16,
       "2023-08-23": 22,
@@ -1648,7 +1648,7 @@
     "timeDay": 639,
     "timeWeek": 681,
     "timeMonth": 651,
-    "timeYear": 377,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   }
 ]
