@@ -1,7 +1,7 @@
 url: https://accountinformation.roblox.com
-status: degraded
-code: 200
-responseTime: 4460
-lastUpdated: 2023-10-22T05:19:53.739Z
+status: down
+code: 503
+responseTime: 724
+lastUpdated: 2023-10-22T05:32:45.498Z
 startTime: 2021-12-04T20:09:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
