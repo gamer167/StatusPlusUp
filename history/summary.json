@@ -282,7 +282,7 @@
     "url": "http://cdnproviders.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/cdnproviders.roblox.com.ico",
     "slug": "cdn-api-endpoint",
-    "status": "down",
+    "status": "degraded",
     "uptime": "17.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -294,7 +294,7 @@
     "timeMonth": 977,
     "timeYear": 995,
     "dailyMinutesDown": {
-      "2023-12-26": 240,
+      "2023-12-26": 291,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -722,7 +722,7 @@
     "timeMonth": 970,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-12-26": 240,
+      "2023-12-26": 291,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -1243,7 +1243,7 @@
     "timeMonth": 1038,
     "timeYear": 874,
     "dailyMinutesDown": {
-      "2023-12-26": 241,
+      "2023-12-26": 291,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -1624,7 +1624,7 @@
     "time": 787,
     "timeDay": 659,
     "timeWeek": 637,
-    "timeMonth": 980,
+    "timeMonth": 722,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2023-12-01": 43,
