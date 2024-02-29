@@ -1,7 +1,7 @@
 url: https://develop.roblox.com/v1/toolbox/items?category=Hat&keyword=Hat
-status: down
+status: degraded
 code: 404
-responseTime: 659
-lastUpdated: 2024-02-28T23:19:37.553Z
+responseTime: 1665
+lastUpdated: 2024-02-29T20:14:02.689Z
 startTime: 2021-12-04T20:09:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
